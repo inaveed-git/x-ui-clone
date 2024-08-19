@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+.img-size {
+    @apply w-8;
+}
+
+
+.li-flex {
+    @apply flex justify-start items-center gap-3 invert hover:bg-gray-200 w-full h-10 hover:rounded-full p-5;
+}
+
+
+.li-font {
+    @apply text-xl font-normal invert
+}
