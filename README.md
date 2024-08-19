@@ -52,3 +52,4 @@ Vite will start the development server, and the app will be available at [http:/
 Here is a preview of the X UI clone:
 
 ![X UI Clone Screenshot](/assets/s1.PNG)
+![X UI Clone Screenshot](/assets/s2.PNG)
