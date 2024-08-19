@@ -16,9 +16,8 @@ Start by cloning the repository to your local machine:
 
 ```bash
 git clone git remote add origin https://github.com/inaveed-git/x-ui-clone.git
-```
 
-````
+```
 
 ### 2. Navigate to the Project Directory
 
@@ -53,5 +52,3 @@ Vite will start the development server, and the app will be available at [http:/
 Here is a preview of the X UI clone:
 
 ![X UI Clone Screenshot](./assets/s1.png)
-
-````
